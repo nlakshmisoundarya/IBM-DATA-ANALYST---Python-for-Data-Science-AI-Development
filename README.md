@@ -3,7 +3,8 @@ This repository contains projects, assignments, and notebooks from the IBM Data 
 
 The IBM Data Analyst Professional Certificate is designed to equip learners with the skills to collect, organize, analyze, and visualize data effectively using industry-standard tools.
 
-**Skills Covered**
+**Skills Covered:**
+
 Data Wrangling and Cleaning with Pandas
 Data Visualization using Matplotlib, Seaborn, and IBM Cognos Analytics
 SQL and Relational Databases
@@ -13,7 +14,8 @@ Python Programming for Data Analysis
 Working with Real-world Datasets
 Creating Interactive Dashboards and Reports
 
-**Tools and Technologies**
+**Tools and Technologies:**
+
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Jupyter Notebooks
 SQL (MySQL, SQLite)
@@ -21,7 +23,8 @@ IBM Cognos Analytics
 Excel and Spreadsheets
 Git and GitHub for version control
 
-**Highlights**
+**Highlights:**
+
 Developed a deep understanding of data analysis workflows.
 Applied statistical concepts to draw meaningful conclusions.
 Built reproducible, clean, and documented code for analysis.
